@@ -1,4 +1,4 @@
-# ML-Projects-Spam-Email-Detection
+# Machine Learning-Projects-Spam-Email-Detection
 AI-powered spam email classification using TensorFlow and LSTM.
 # AI-Powered Spam Email Classification Using TensorFlow
 
